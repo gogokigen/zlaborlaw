@@ -9,6 +9,7 @@
   * [勞保健保相關議題](lao-gong-chang-jian-wen-ti/lao-bao-jian-bao-xiang-guan-yi-ti.md)
   * [假勤相關](lao-gong-chang-jian-wen-ti/jia-qin-xiang-guan.md)
   * [解雇](lao-gong-chang-jian-wen-ti/jie-gu.md)
+  * [離職](lao-gong-chang-jian-wen-ti/li-zhi.md)
   * [職災](lao-gong-chang-jian-wen-ti/zhi-zai.md)
   * [請求權](lao-gong-chang-jian-wen-ti/qing-qiu-quan.md)
   * [時事-COVID-19相關](lao-gong-chang-jian-wen-ti/shi-shi-covid19-xiang-guan.md)
